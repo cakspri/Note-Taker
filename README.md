@@ -44,8 +44,6 @@ Note Deleted
 ![Note Deleted](./Assets/NoteDeleted.png)
 Saved Notes View
 ![Saved Notes View (ReadOnly)](./Assets/ViewingSavedNotes.png)
-Insomnia Get API Call
-![Insomnia Get API Call](./Assets/InsomniaGet.png)
 Note Deletion using uuid/insomnia
 ![Note Deletion using uuid/insomnia](./Assets/NoteDeletion.png)
 No Console Errors
