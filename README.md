@@ -37,7 +37,7 @@ Landing Page/Getting Started Page:
 Notes Page
 ![Notes Page](./Assets/NotesPage.png)
 Rerouting to Landing Page/Getting Started Page no matter which path apart from /notes is entered: 
-![Rerouting to Landing Page/Getting Started Page](./Assets/RerouteHome.png)
+!(./Assets/RerouteHome.png)
 Note Added
 ![Note Added](./Assets/NoteAdded.png)
 Note Deleted
@@ -45,7 +45,7 @@ Note Deleted
 Saved Notes View
 ![Saved Notes View (ReadOnly)](./Assets/ViewingSavedNotes.png)
 Note Deletion
-![Note Deletion using uuid/insomnia](./Assets/NoteDeletion.png)
+!(./Assets/NoteDeletion.png)
 No Console Errors
 ![No Console Errors](./Assets/NoErrors.png)
 
