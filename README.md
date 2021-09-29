@@ -4,16 +4,10 @@
 Modify starter code to create an application called 'Note Taker' that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.  The application’s front end has already been created. It's our job to build the back end, connect the two, and then deploy the entire application to Heroku.
 
 ## DNB's SOLUTION:
-#### UNC Boot Camp Submission: 
-🗂️ [Github Repository](https://github.com/DionneNoellaBarretto/11-NoteTaker_Heroku_Express.js-FrontEndandBackEndApp)
 
-📰[ReadMe](https://dionnenoellabarretto.github.io/11-NoteTaker_Heroku_Express.js-FrontEndandBackEndApp/)
+🗂️ [Github Repository](https://github.com/cakspri/Note-Taker)
 
-📑[Heroku Git Repository](https://git.heroku.com/safe-brushlands-44448.git
-)
-
-📄 [Example Github Page](https://safe-brushlands-44448.herokuapp.com/)
-
+📑[Heroku Git Repository](https://note-taker1100.herokuapp.com/notes)
 
 ## User Story
 
