@@ -7,7 +7,7 @@ Modify starter code to create an application called 'Note Taker' that can be use
 
 🗂️ [Github Repository](https://github.com/cakspri/Note-Taker)
 
-📑[Heroku Git Repository](https://note-taker1100.herokuapp.com/notes)
+📑[Heroku Git Repository](https://note-taker1100.herokuapp.com/)
 
 ## User Story
 
